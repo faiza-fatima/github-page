@@ -29,7 +29,7 @@ const Header = () => {
           </li>
           <li>
             <NavLink
-              to="/github"
+              to="https://github.com/faiza-fatima"
               className="px-4 py-2 rounded-md text-white bg-gradient-to-r from-sky-blue-300 to-pink-300 hover:from-pink-300 hover:to-sky-blue-300 active:from-sky-blue-500 active:to-pink-500 transition duration-300"
               activeClassName="bg-pink-500"
             >
@@ -38,7 +38,7 @@ const Header = () => {
           </li>
           <li>
             <NavLink
-              to="/linkedin"
+              to="https://www.linkedin.com/in/faiza-fatima742"
               className="px-4 py-2 rounded-md text-white bg-gradient-to-r from-sky-blue-300 to-pink-300 hover:from-pink-300 hover:to-sky-blue-300 active:from-sky-blue-500 active:to-pink-500 transition duration-300"
               activeClassName="bg-pink-500"
             >
@@ -47,7 +47,7 @@ const Header = () => {
           </li>
           <li>
             <NavLink
-              to="/mail"
+              to="/faizafatima742@gmail.com"
               className="px-4 py-2 rounded-md text-white bg-gradient-to-r from-sky-blue-300 to-pink-300 hover:from-pink-300 hover:to-sky-blue-300 active:from-sky-blue-500 active:to-pink-500 transition duration-300"
               activeClassName="bg-pink-500"
             >
