@@ -16,6 +16,7 @@ const Users = () => {
       setUsers(data);
       setLoading(null);
     }
+    
   }
 
   async function FindUser() {
