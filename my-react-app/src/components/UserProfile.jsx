@@ -63,3 +63,6 @@ const UserProfile = () => {
 };
 
 export default UserProfile;
+
+//http://localhost:8001/user/faiza:userprofile github
+//npm i react-router-dom@v6
