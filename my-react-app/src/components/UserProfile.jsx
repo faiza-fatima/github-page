@@ -48,6 +48,9 @@ const UserProfile = () => {
           View GitHub Profile
         </a>
         {user.linkedin_username && (
+          <div>
+          LinkedIn Username: {user.linkedin_username}
+       
           <a
             href={`https://www.linkedin.com/in/${user.linkedin_username}`}
             target="_blank"
@@ -56,6 +59,7 @@ const UserProfile = () => {
           >
             View LinkedIn Profile
           </a>
+          </div>
         )}
       </div>
     </div>
